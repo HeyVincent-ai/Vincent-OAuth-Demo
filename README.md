@@ -1,6 +1,6 @@
 # Vincent OAuth Onboarding Demo
 
-Minimal React app proving a third-party app can integrate Vincent with **zero changes to Vincent**. OAuth login, check balance, place trades — all via existing Vincent endpoints.
+Minimal React app proving a third-party app can integrate Vincent with **zero changes to Vincent**. OAuth login, check balance, place trades — all via existing Vincent endpoints. For complete Vincent API check out: https://heyvincent.ai/docs
 
 ## What This Proves
 
